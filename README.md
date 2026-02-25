@@ -68,7 +68,7 @@ Se muestra el correo de Microsoft Azure confirmando que el destinatario ha sido 
 - [x] Notificación por email configurada
 - [x] Evidencias guardadas y enlazadas en el README
 - [x] Confirmación recibida de alta en el Action Group por correo
-- [ ] 
+ 
 ---
 
 ## Qué le diría a un cliente o en entrevista
