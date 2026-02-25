@@ -52,6 +52,14 @@ Se muestra el Action Group configurado como canal de notificación.
 
 ---
 
+### 03 – Confirmación de suscripción al Action Group (email de Azure)
+<img src="images/03-action-group-confirmation-email.png" width="800">
+
+Se muestra el correo de Microsoft Azure confirmando que el destinatario ha sido añadido correctamente al Action Group `ag-lab23-email`.
+
+---
+
+
 ## Checklist de verificación
 
 - [x] Regla de alerta creada para la VM
@@ -59,7 +67,8 @@ Se muestra el Action Group configurado como canal de notificación.
 - [x] Action Group asociado
 - [x] Notificación por email configurada
 - [x] Evidencias guardadas y enlazadas en el README
-
+- [x] Confirmación recibida de alta en el Action Group por correo
+- [ ] 
 ---
 
 ## Qué le diría a un cliente o en entrevista
