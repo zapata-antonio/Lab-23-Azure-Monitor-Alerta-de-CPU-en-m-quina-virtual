@@ -77,6 +77,3 @@ Se muestra el correo de Microsoft Azure confirmando que el destinatario ha sido 
 
 ---
 
-## Limpieza (opcional)
-- Eliminar la regla de alerta si no se va a reutilizar (para evitar ruido).
-- Reutilizar el Action Group en otras alertas (lo normal en empresa).
